@@ -14,20 +14,6 @@ framework 是一个基于 ThinkPHP5.1 开发的后台管理系统，集成常用
 --
 开发前认真阅读 ThinkPHP 官方文档会对您有帮助哦！
 
-PHP 开发技术交流（ QQ 群 513350915）
-
-[![PHP微信开发群 (SDK)](http://pub.idqqimg.com/wpa/images/group.png)](http://shang.qq.com/wpa/qunwpa?idkey=ae25cf789dafbef62e50a980ffc31242f150bc61a61164458216dd98c411832a) 
-
-
-代码仓库
---
- framework 为 MIT 协议开源项目，安装使用或二次开发不受约束，欢迎 fork 项目。
- 
- 部分代码来自互联网，若有异议可以联系作者进行删除。
- 
- * 在线体验地址：https://framework.thinkadmin.top
- * Gitee仓库地址：https://gitee.com/zoujingli/framework
- * GitHub仓库地址：https://github.com/zoujingli/framework
  
 特别感谢
 --
@@ -42,8 +28,3 @@ PHP 开发技术交流（ QQ 群 513350915）
 |ThinkLibrary|1.2.2|ThinkPHP扩展组件|https://github.com/zoujingli/ThinkLibrary|
 |WeChatDeveloper|1.2.2|微信公众号组件|https://github.com/zoujingli/WeChatDeveloper|
 |WeOpenDeveloper|1.1.3|微信开放平台组件|https://github.com/zoujingli/WeOpenDeveloper|
-
-赞助打赏
---
-![赞助](http://zoujingli.oschina.io/static/pay.png)
-
